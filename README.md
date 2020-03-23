@@ -4,8 +4,7 @@
 
 Name | Description
 --- | ---
-DiceRoller | first project to get acquanted using Kotlin. Demonstrates clicking a button to update the image (findViewById) | ![DiceRoller](DiceRoller.png)
-
+DiceRoller | first project to get acquanted using Kotlin. Demonstrates clicking a button to update the image (findViewById)
 AboutMe | Demonstrates layouts, databinding, mentions viewbinding may be better depending on use cases 
 ColorMyView | Demonstrates more about layouts - specifically constraint layouts and onClickListener 
 AndroidTrivia | Covers fragments, navigation, animation transitions, intents, bundles
